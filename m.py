@@ -395,7 +395,7 @@ def welcome_plan(message):
     response = f'''{user_name}, Brother Only 1 Plan Is Powerfull Then Any Other Ddos !!:
 
 Vip 🌟 :
--> Attack Time : 300 (S)
+-> Attack Time : 900 (S)
 > After Attack Limit : 10 sec
 -> Concurrents Attack : 5
 
